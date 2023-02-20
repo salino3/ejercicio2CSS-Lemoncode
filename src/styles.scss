@@ -259,20 +259,10 @@ body {
             height: auto;
           }
         }
-        .card:hover {
-          background-color: lighten(#97eb97, 10%);
-
-          .member_name {
-            background-color: #62860d;
-          }
-        }
+ 
       }
     }
     //
-    footer {
-      padding: 1em 2em 2em;
-      background-color: #168d8b;
-      font-size: larger;
-    }
+ 
   }
 }
